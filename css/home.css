@@ -1,0 +1,5 @@
+.home{
+    background:url(/pictures/homeView.jpeg) no-repeat; 
+    background-size: cover;
+    height:calc(100vh - 80px);
+}
