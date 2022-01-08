@@ -6,13 +6,13 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
-
+/* 
 .fullRegister {
     overflow: hidden;
     background:#d2df64;
     height: 100vh;
     width: 174.9vh;
-}
+} */
 
 .register{
     max-width: 440px;
